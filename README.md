@@ -3,7 +3,7 @@ About:
   
   This repository comes with a defualt post script file for the user to transform and a test script which various transformation commands.
   
-  If one does not wish to download the entire repository and run the test script, the programs capability can be viewed comparing a test's input .ps file with a       test's .pbm file.
+  If one does not wish to download the entire repository and run the test script, the programs capability can be viewed by comparing a test's input .ps file with a       test's .pbm file.
 
 To run program's test script:
   -download the entire repostitory
